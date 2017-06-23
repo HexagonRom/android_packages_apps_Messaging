@@ -32,13 +32,13 @@
     <style name="BugleTheme" parent="BugleBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
          <item name="android:dropDownListViewStyle">@style/DropDownListViewStyle</item>
-         <item name="colorPrimary">#ff222222</item>
-         <item name="colorPrimaryDark">#ff222222</item>
+         <item name="colorPrimary">#ff20877f</item>
+         <item name="colorPrimaryDark">#ff20877f</item>
          <item name="colorAccent">#ffE84E40</item>
          <item name="android:textColorHighlight">@color/text_highlight_color</item>
          <item name="actionBarStyle">@style/BugleActionBar</item>
          <item name="apnPreferenceStyle">@style/ApnPreference</item>
-		 <item name="android:navigationBarColor">#ff222222</item>
+		 <item name="android:navigationBarColor">#ff20877f</item>
     </style>
 
     <style name="BugleTheme.ConversationActivity"

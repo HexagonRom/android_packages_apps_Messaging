@@ -15,7 +15,7 @@
     limitations under the License.
 -->
 <resources>
-    <color name="primary_color">#ff222222</color>
+    <color name="primary_color">#ff20877f</color>
     <color name="permission_check_activity_background">@color/primary_color</color>
     <color name="cm_accent">#00adef</color>
 
@@ -69,7 +69,7 @@
     <color name="message_error_bubble_color_incoming">#e2e2e2</color>
     <color name="message_audio_button_color_incoming">#ffffffff</color>
     <color name="message_bubble_color_selected">#ffE84E40</color>
-    <color name="message_image_selected_tint">#ff222222</color>
+    <color name="message_image_selected_tint">#ff20877f</color>
     <color name="generic_video_icon">#ff808080</color>
 
     <!-- Base color used for color filtering. -->
